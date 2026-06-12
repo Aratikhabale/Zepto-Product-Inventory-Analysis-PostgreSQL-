@@ -11,6 +11,18 @@ This project analyzes Zepto's product inventory data using PostgreSQL. The objec
 •	CSV Dataset 
 •	GitHub 
 
-** Database >  Schema > Table > Column > ROWS
+** Database >  Schema > Table > Column 
 
 <a href=https://github.com/Aratikhabale/Zepto-Product-Inventory-Analysis-PostgreSQL-/blob/main/Table.png>view structure </a>  
+
+
+** Data Cleaning :-
+
+•	Removed products with invalid prices. 
+
+•	Converted prices from paise to rupees.
+
+•	Checked for missing values. 
+
+•	Validated inventory records. 
+
