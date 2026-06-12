@@ -11,26 +11,6 @@ This project analyzes Zepto's product inventory data using PostgreSQL. The objec
 •	CSV Dataset 
 •	GitHub 
 
-** Database Schema :-
+** Database >  Schema > Table > Column > ROWS
 
--Column Name                                                                                                                           -	Description
-
-sku_id                                       	Unique Product ID
-
-category                                     	Product Category
-
-name                                         	Product Name
-
-mrp	                                          Maximum Retail Price
-
-discountPercent                              	Discount Percentage
-
-availableQuantity	                            Available Stock
-
-discountedSellingPrice	                       Selling Price After Discount
-
-weightInGms	                                  Product Weight
-
-outOfStock	                                   Stock Status
-
-quantity                                     	Product Quantity
+<a href=https://github.com/Aratikhabale/Zepto-Product-Inventory-Analysis-PostgreSQL-/blob/main/Table.png>view structure </a>  
