@@ -13,7 +13,7 @@ This project analyzes Zepto's product inventory data using PostgreSQL. The objec
 
 ** Database Schema :-
 
--Column Name                                  -	Description
+-Column Name                                                                                                                           -	Description
 
 sku_id                                       	Unique Product ID
 
