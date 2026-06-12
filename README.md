@@ -7,6 +7,7 @@ This project analyzes Zepto's product inventory data using PostgreSQL. The objec
  ** Tools Used :-
  
 •	PostgreSQL 
+- pgadmin 4
 •	SQL
 •	CSV Dataset 
 •	GitHub 
@@ -25,6 +26,8 @@ This project analyzes Zepto's product inventory data using PostgreSQL. The objec
 •	Checked for missing values. 
 
 •	Validated inventory records.
+
+** Business Questions Solved
 
 --Q1. Find the top 10 best-value products based on the discount percentage ?
 
